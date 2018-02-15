@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "785653887487",
+    "project_id": "motus-180921"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785653887487:android:c527ef0a34a3894a",
+        "android_client_info": {
+          "package_name": "edu.lehigh.csb311.motus_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785653887487-ghdsndg5mfdnaq9uue41gs116brp2vq6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "785653887487-l5a1ds44i84ihv9dnrphfft3ujh3jtr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.lehigh.csb311.motus_android",
+            "certificate_hash": "82e47e52e005bd8ec3f22d94314a96a76f526d28"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRi56P-vV_Lz3seRhL-5Z2s_SFt3lGXcE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

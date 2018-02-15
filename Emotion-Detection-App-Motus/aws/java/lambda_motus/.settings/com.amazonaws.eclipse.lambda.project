@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Tue Apr 25 18:58:49 EDT 2017
+lastDeploymentFunctionName=getAudioFromS3
+lastDeploymentBucketName=csb-motus
+lastDeploymentEndpoint=https\://lambda.us-west-2.amazonaws.com/

@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Wed Oct 18 13:22:27 EDT 2017
+lastDeploymentFunctionName=sns_to_NLP
+lastDeploymentBucketName=csb-motus
+lastDeploymentEndpoint=https\://lambda.us-west-2.amazonaws.com/

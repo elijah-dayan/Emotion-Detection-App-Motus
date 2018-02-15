@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: lambda_api_motus.api_lambda.ProxyWithStreamTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec <<< FAILURE!
+lambda_api_motus.api_lambda.ProxyWithStreamTest.testProxyWithStream()  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at lambda_api_motus.api_lambda.ProxyWithStream.handleRequest(ProxyWithStream.java:27)
+	at lambda_api_motus.api_lambda.ProxyWithStreamTest.testProxyWithStream(ProxyWithStreamTest.java:27)
+

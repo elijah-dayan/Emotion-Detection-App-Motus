@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Sun Oct 22 18:03:46 EDT 2017
+lastDeploymentFunctionName=api_get
+lastDeploymentBucketName=csb-motus
+lastDeploymentEndpoint=https\://lambda.us-west-2.amazonaws.com/

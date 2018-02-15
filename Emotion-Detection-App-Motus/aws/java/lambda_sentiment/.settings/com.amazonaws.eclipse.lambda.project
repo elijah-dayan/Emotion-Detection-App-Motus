@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Tue Oct 10 19:25:53 EDT 2017
+lastDeploymentFunctionName=sentiment-analysis2
+lastDeploymentBucketName=csb-motus
+lastDeploymentEndpoint=https\://lambda.us-west-2.amazonaws.com/

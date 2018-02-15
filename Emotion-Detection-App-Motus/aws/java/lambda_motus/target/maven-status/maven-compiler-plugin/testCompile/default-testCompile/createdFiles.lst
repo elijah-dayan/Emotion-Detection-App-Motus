@@ -1,0 +1,10 @@
+edu/lehigh/csb/motus/app/processAudioTest.class
+edu/lehigh/csb/motus/app/TestContext$1.class
+edu/lehigh/csb/motus/app/TestUtils$DateTimeSerializer.class
+edu/lehigh/csb/motus/app/TestContext.class
+edu/lehigh/csb/motus/app/TestContext$TestLogger.class
+edu/lehigh/csb/motus/app/TestUtils$1.class
+edu/lehigh/csb/motus/app/TestUtils.class
+edu/lehigh/csb/motus/app/TestUtils$DateTimeDeserializer.class
+edu/lehigh/csb/motus/app/TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+edu/lehigh/csb/motus/app/TestUtils$TestJacksonMapperModule.class
