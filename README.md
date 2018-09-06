@@ -1,2 +1,3 @@
 # Emotion-Detection-App-Motus
-This project was created as part of our senior year final project. It was built on AWS environment.
+
+This is my senior year project sponsored by the data analytics company called "Knowledgent". It was built on the AWS environment.
